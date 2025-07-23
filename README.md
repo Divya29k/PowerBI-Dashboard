@@ -1,6 +1,6 @@
 # PowerBI-Dashboard
 PROJECT EXPLANATION
-Scenario: As a Power BI developer in leading Software Company Maximoff traders as a BI export;created a dashboard on the Microsoft Power BI Service using the already published report in Power BI Service. So that the business users can use this dashboard to see all key business information in one place. So, for this assignment, I  built one Dashboard in my personal workspace and took that dashboard into pdf or PowerPoint.
+Scenario: As a Power BI developer in leading Software Company Maximoff traders as a BI expert;created a dashboard on the Microsoft Power BI Service using the already published report in Power BI Service. So that the business users can use this dashboard to see all key business information in one place. So, for this assignment, I  built one Dashboard in my personal workspace and took that dashboard into pdf or PowerPoint.
 
 The following are the tasks that are performed:
 
